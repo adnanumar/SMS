@@ -1,0 +1,22 @@
+E:\visual studio projects\SMS\SMS\SMS\bin\SMS.dll
+E:\visual studio projects\SMS\SMS\SMS\bin\SMS.pdb
+E:\visual studio projects\SMS\SMS\SMS\obj\Debug\SMS.dll
+E:\visual studio projects\SMS\SMS\SMS\obj\Debug\SMS.pdb
+E:\visual studio projects\SMS\SMS\SMS\bin\SMS.DAL.dll
+E:\visual studio projects\SMS\SMS\SMS\bin\SMS.Model.dll
+E:\visual studio projects\SMS\SMS\SMS\bin\SMS.DAL.pdb
+E:\visual studio projects\SMS\SMS\SMS\bin\SMS.Model.pdb
+E:\visual studio projects\SMS\SMS\SMS\obj\Debug\SMS.csprojResolveAssemblyReference.cache
+D:\Projects\SMS\SMS\bin\SMS.dll
+D:\Projects\SMS\SMS\bin\SMS.pdb
+D:\Projects\SMS\SMS\bin\SMS.DAL.dll
+D:\Projects\SMS\SMS\bin\SMS.Model.dll
+D:\Projects\SMS\SMS\bin\SMS.DAL.pdb
+D:\Projects\SMS\SMS\bin\SMS.Model.pdb
+D:\Projects\SMS\SMS\obj\Debug\SMS.csprojResolveAssemblyReference.cache
+D:\Projects\SMS\SMS\obj\Debug\SMS.dll
+D:\Projects\SMS\SMS\obj\Debug\SMS.pdb
+D:\Projects\SMS\SMS\bin\SMS.Helper.dll
+D:\Projects\SMS\SMS\bin\SMS.Helper.pdb
+E:\visual studio projects\SMS\SMS\SMS\bin\SMS.Helper.dll
+E:\visual studio projects\SMS\SMS\SMS\bin\SMS.Helper.pdb

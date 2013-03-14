@@ -1,0 +1,22 @@
+E:\visual studio projects\SMS\SMS\SMS.Admin\bin\SMS.Admin.dll
+E:\visual studio projects\SMS\SMS\SMS.Admin\bin\SMS.Admin.pdb
+E:\visual studio projects\SMS\SMS\SMS.Admin\bin\SMS.DAL.dll
+E:\visual studio projects\SMS\SMS\SMS.Admin\bin\SMS.DAL.pdb
+E:\visual studio projects\SMS\SMS\SMS.Admin\obj\Debug\SMS.Admin.csprojResolveAssemblyReference.cache
+E:\visual studio projects\SMS\SMS\SMS.Admin\obj\Debug\SMS.Admin.dll
+E:\visual studio projects\SMS\SMS\SMS.Admin\obj\Debug\SMS.Admin.pdb
+E:\visual studio projects\SMS\SMS\SMS.Admin\bin\SMS.Model.dll
+E:\visual studio projects\SMS\SMS\SMS.Admin\bin\SMS.Model.pdb
+E:\visual studio projects\SMS\SMS\SMS.Admin\bin\SMS.Helper.pdb
+E:\visual studio projects\SMS\SMS\SMS.Admin\bin\SMS.Helper.dll
+D:\Projects\SMS\SMS.Admin\bin\SMS.Admin.dll
+D:\Projects\SMS\SMS.Admin\bin\SMS.Admin.pdb
+D:\Projects\SMS\SMS.Admin\bin\SMS.DAL.dll
+D:\Projects\SMS\SMS.Admin\bin\SMS.Helper.dll
+D:\Projects\SMS\SMS.Admin\bin\SMS.Model.dll
+D:\Projects\SMS\SMS.Admin\bin\SMS.DAL.pdb
+D:\Projects\SMS\SMS.Admin\bin\SMS.Helper.pdb
+D:\Projects\SMS\SMS.Admin\bin\SMS.Model.pdb
+D:\Projects\SMS\SMS.Admin\obj\Debug\SMS.Admin.csprojResolveAssemblyReference.cache
+D:\Projects\SMS\SMS.Admin\obj\Debug\SMS.Admin.dll
+D:\Projects\SMS\SMS.Admin\obj\Debug\SMS.Admin.pdb

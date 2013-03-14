@@ -1,0 +1,59 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="SMS.SiteMaster" %>
+
+<%@ Register Assembly="Telerik.Web.UI" Namespace="Telerik.Web.UI" TagPrefix="telerik" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+    <title>SMS</title>
+    
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+  
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form runat="server">
+    <asp:ScriptManager ID="ScriptManager1" runat="server">
+    </asp:ScriptManager>
+    <telerik:RadSkinManager ID="RadSkinManager1" ShowChooser="true" Skin="WebBlue" runat="server">
+    </telerik:RadSkinManager>
+   <div class="page">
+        <div class="header">
+            <div class="title">
+                <h1>
+                <asp:Label ID="lblHeader" runat="server" Text=""></asp:Label>    
+                  School Management System
+                </h1>
+            </div>
+             
+            <div class="loginDisplay">
+                <telerik:RadButton ID="btnLogin" Visible="false" runat="server" ButtonType="LinkButton" 
+                    Text="Sign In" onclick="btnLogin_Click">
+                </telerik:RadButton>
+                 <telerik:RadButton ID="btnSignOut" Visible="false" runat="server" ButtonType="LinkButton" 
+                    Text="Sign Out" onclick="btnSignOut_Click">
+                </telerik:RadButton>
+            </div>
+            <div class="clear hideSkiplink">
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/Home.aspx" Text="Home"/>
+                        <asp:MenuItem NavigateUrl="~/About.aspx" Text="About"/>
+                    </Items>
+                </asp:Menu>
+            </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+        
+    </div>
+
+    </form>
+</body>
+</html>

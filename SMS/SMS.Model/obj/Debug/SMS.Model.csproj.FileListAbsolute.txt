@@ -1,0 +1,8 @@
+E:\visual studio projects\SMS\SMS\SMS.Model\bin\Debug\SMS.Model.dll
+E:\visual studio projects\SMS\SMS\SMS.Model\bin\Debug\SMS.Model.pdb
+E:\visual studio projects\SMS\SMS\SMS.Model\obj\Debug\SMS.Model.dll
+E:\visual studio projects\SMS\SMS\SMS.Model\obj\Debug\SMS.Model.pdb
+D:\Projects\SMS\SMS.Model\bin\Debug\SMS.Model.dll
+D:\Projects\SMS\SMS.Model\bin\Debug\SMS.Model.pdb
+D:\Projects\SMS\SMS.Model\obj\Debug\SMS.Model.dll
+D:\Projects\SMS\SMS.Model\obj\Debug\SMS.Model.pdb

@@ -1,0 +1,20 @@
+E:\visual studio projects\SMS\SMS\SMS.Helper\bin\Debug\SMS.Helper.dll
+E:\visual studio projects\SMS\SMS\SMS.Helper\bin\Debug\SMS.Helper.pdb
+E:\visual studio projects\SMS\SMS\SMS.Helper\obj\Debug\SMS.Helper.dll
+E:\visual studio projects\SMS\SMS\SMS.Helper\obj\Debug\SMS.Helper.pdb
+E:\visual studio projects\SMS\SMS\SMS.Helper\bin\Debug\SMS.DAL.dll
+E:\visual studio projects\SMS\SMS\SMS.Helper\bin\Debug\SMS.Model.dll
+E:\visual studio projects\SMS\SMS\SMS.Helper\bin\Debug\SMS.DAL.pdb
+E:\visual studio projects\SMS\SMS\SMS.Helper\bin\Debug\SMS.Model.pdb
+E:\visual studio projects\SMS\SMS\SMS.Helper\bin\Debug\Telerik.Web.UI.dll
+D:\Projects\SMS\SMS.Helper\bin\Debug\SMS.Helper.dll
+D:\Projects\SMS\SMS.Helper\bin\Debug\SMS.Helper.pdb
+D:\Projects\SMS\SMS.Helper\bin\Debug\SMS.DAL.dll
+D:\Projects\SMS\SMS.Helper\bin\Debug\SMS.Model.dll
+D:\Projects\SMS\SMS.Helper\bin\Debug\Telerik.Web.UI.dll
+D:\Projects\SMS\SMS.Helper\bin\Debug\SMS.DAL.pdb
+D:\Projects\SMS\SMS.Helper\bin\Debug\SMS.Model.pdb
+D:\Projects\SMS\SMS.Helper\obj\Debug\SMS.Helper.csprojResolveAssemblyReference.cache
+D:\Projects\SMS\SMS.Helper\obj\Debug\SMS.Helper.dll
+D:\Projects\SMS\SMS.Helper\obj\Debug\SMS.Helper.pdb
+E:\visual studio projects\SMS\SMS\SMS.Helper\obj\Debug\SMS.Helper.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+E:\visual studio projects\SMS\SMS\SMS.DAL\bin\Debug\SMS.DAL.dll
+E:\visual studio projects\SMS\SMS\SMS.DAL\bin\Debug\SMS.DAL.pdb
+E:\visual studio projects\SMS\SMS\SMS.DAL\obj\Debug\SMS.DAL.dll
+E:\visual studio projects\SMS\SMS\SMS.DAL\obj\Debug\SMS.DAL.pdb
+E:\visual studio projects\SMS\SMS\SMS.DAL\bin\Debug\SMS.Model.dll
+E:\visual studio projects\SMS\SMS\SMS.DAL\bin\Debug\SMS.Model.pdb
+D:\Projects\SMS\SMS.DAL\obj\Debug\SMS.DAL.csprojResolveAssemblyReference.cache
+D:\Projects\SMS\SMS.DAL\obj\Debug\SMS.DAL.dll
+D:\Projects\SMS\SMS.DAL\obj\Debug\SMS.DAL.pdb
+D:\Projects\SMS\SMS.DAL\bin\Debug\SMS.DAL.dll
+D:\Projects\SMS\SMS.DAL\bin\Debug\SMS.DAL.pdb
+D:\Projects\SMS\SMS.DAL\bin\Debug\SMS.Model.dll
+D:\Projects\SMS\SMS.DAL\bin\Debug\SMS.Model.pdb
+E:\visual studio projects\SMS\SMS\SMS.DAL\obj\Debug\SMS.DAL.csprojResolveAssemblyReference.cache

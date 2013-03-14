@@ -1,0 +1,6 @@
+E:\visual studio projects\SMS\SMS\SMS.Admin\bin\SMS.Admin.dll
+E:\visual studio projects\SMS\SMS\SMS.Admin\bin\SMS.Admin.pdb
+E:\visual studio projects\SMS\SMS\SMS.Admin\bin\Telerik.Web.UI.xml
+E:\visual studio projects\SMS\SMS\SMS.Admin\obj\Debug\SMSAdmin.csprojResolveAssemblyReference.cache
+E:\visual studio projects\SMS\SMS\SMS.Admin\obj\Debug\SMS.Admin.dll
+E:\visual studio projects\SMS\SMS\SMS.Admin\obj\Debug\SMS.Admin.pdb

@@ -1,0 +1,4 @@
+E:\visual studio projects\SMS\SMS\Test\bin\Test.dll
+E:\visual studio projects\SMS\SMS\Test\bin\Test.pdb
+E:\visual studio projects\SMS\SMS\Test\obj\Debug\Test.dll
+E:\visual studio projects\SMS\SMS\Test\obj\Debug\Test.pdb
